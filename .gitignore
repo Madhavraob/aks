@@ -1,0 +1,6 @@
+/infrastructure/*
+/scripts/*
+
+/confidential.txt
+
+node_modules
